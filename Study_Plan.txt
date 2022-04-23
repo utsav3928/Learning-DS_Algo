@@ -1,4 +1,19 @@
 
-Topics to focus on:
+Topics to focus on (Practice):
 -----------------------------
 1. Basic Java Questions
+2. Questtion on Loops
+3. Basic Array problems
+4. Advance Array problems
+5. String problems
+
+
+
+
+
+
+
+
+Topics to focus on (Theory):
+-----------------------------
+1. Hashmap concept
