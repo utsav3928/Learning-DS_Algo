@@ -1,0 +1,37 @@
+
+Data Structures:
+-----------------
+    1. Array
+        - basic questions with concept
+        - java in-built methods of Array
+        - Array and ArrayList
+        
+
+    2. LinkedList
+        - Types of LinkedList
+        - implementations of LinkedList
+        - Various operations
+        - java in-built methods
+        - advance concepts
+
+
+    3. Stack
+        - implementation using:
+            Array
+            LinkedList
+        -  Various operations
+
+
+    4. Queue
+        - implementation using:
+            Array
+            LinkedList
+        -  Various operations
+
+
+    5. Tree
+        - Types
+        - binary tree 
+
+        
+    6. Graphs
