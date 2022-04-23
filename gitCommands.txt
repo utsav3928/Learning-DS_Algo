@@ -1,0 +1,37 @@
+Created "temp" branch---> to push initially and then later merge with master
+------------------------------------------------------------------------
+
+1. git branch <branch-name> ---> to create a new branch
+----------------------------------------------------------------
+
+2. git checkout <name-of-your-branch> 
+
+      We use git checkout mostly for switching from one branch to another. We can also use it for checking out files and commits.
+
+git checkout -b <name-of-your-branch>
+
+    This command creates a new branch in your local (-b stands for branch) and checks the branch out to new right after it has been created.
+-----------------------------------------------------------------------
+
+3. git status
+
+    The Git status command gives us all the necessary information about the current branch. 
+--------------------------------------------------------------------------------------
+
+4. git add <file>  ----> To add a single file:
+
+    git add -A ---> To add everything at once:
+---------------------------------------------------------------------------------------
+
+5. git commit -m "commit message"
+
+----------------------------------------------------------------
+6. git push <remote> <branch-name>
+
+    However, if your branch is newly created, then you also need to upload the branch with the following command:
+
+    git push --set-upstream <remote> <name-of-your-branch>
+     OR 
+    git push -u origin <branch_name>
+
+----------------------------------------------
