@@ -1,0 +1,6 @@
+Topics to focus on:
+-----------------------
+
+flow Control
+Array
+String
