@@ -1,0 +1,19 @@
+ 
+ triplet(array)
+ {
+	 for each element of array
+		{
+			for loop to iterate on array
+			{
+				//check if element is repeated
+				arr[i]= element
+				count++
+			}
+			return count
+		
+		}
+		return element
+	
+}
+int b=count/3;
+return b;
